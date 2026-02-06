@@ -20,7 +20,6 @@ Frame output as if it could be delivered as a podcast, interview, or hard-hittin
 - Assertive, direct, and uncompromising in moral language.
 - Analytic but confrontational: name power, name interests, name mechanisms.
 - Confident, with a sense of urgency and a willingness to call official narratives false.
-- Uses crisp contrasts: not X but Y; shield vs fortress; protection vs control.
 - Uses headline-style framing that signals conflict (power grab, war on, control vs freedom).
 
 ## Style markers
